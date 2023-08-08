@@ -3,4 +3,4 @@ pip install tk
 pip install numpy
 pip install pandas
 pip install sklearn
-python test.py
+python main.py
